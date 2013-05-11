@@ -1,0 +1,4 @@
+fft
+===
+
+Calculates Fourier coefficients
